@@ -20,6 +20,10 @@ permalink: /projects/
 <a href="https://bitbucket.org/urbanophile/sfscraper">bitbucket.org/urbanophile/sfscraper</a>
 <p>Collaborated with <a href="https://bitbucket.org/urbanophile">urbanophile</a> to scrape the complete post history of <a href="http://www.styleforum.net">men's style forum</a>. Analysis to come.</p>
 
-<h1>4chan analysis</h1>
+<h1>4chan Analysis</h1>
 <a href="https://bitbucket.org/peterashwell/4chan-analysis/src">bitbucker.org/peterashwell/4chan-analysis/src</a>
 <p>Scraped several months of popular 4chan board /b/ with the objective of filtering out the typical low-quality content and extracting creative and interesting posts.</p>
+
+<h1>2011 Google AI Challenge - Ants</h1>
+<a href="http://ants.aichallenge.org/profile.php?user=12556">ants.aichallenge.org/profile.php?user=12556</a>(my bot)
+<p>Built a successful AI bot in python for the 2011 Google AI challenge, a simple RTS game played against other people's programs from around the world. The bot was based on a simple diffusion field algorithm with some performance tweaks. It performed well, placing 308 out of 7897 entrants.</p>
