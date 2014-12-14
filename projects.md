@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 <h1>Peter's parking project</h1>
-<a href="petersparkingproject.com"></a>
+<a href="petersparkingproject.com">petersparkingproject.com</a>
 <p>A smart city project using computer vision and networked cameras to eliminate the pain of parking forever. Constructed a prototype with some basic computer vision techniques for the city of Borgholm. Unfortunately prototype performs poorly as environmental conditions (locations of parking spot, seasons) have changed since it was built and optimised. More to come.
 
 <h1>Basil Framework</h1>
