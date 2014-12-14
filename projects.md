@@ -22,4 +22,4 @@ permalink: /projects/
 
 <h1>4chan analysis</h1>
 <a href="https://bitbucket.org/peterashwell/4chan-analysis/src">bitbucker.org/peterashwell/4chan-analysis/src</a>
-<p>Scraped several months of popular 4chan boards /b/, /v/, and /g/ with the objective of filtering out the typical low-quality content and extracting creative and interesting posts.</p>
+<p>Scraped several months of popular 4chan board /b/ with the objective of filtering out the typical low-quality content and extracting creative and interesting posts.</p>
