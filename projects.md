@@ -13,7 +13,7 @@ permalink: /projects/
 <p>A backend as a service that aims to make web development better by providing typical web application components, such as chat, login and file uploading as interfaced components that can link to both the backend and frontend of your application.</p>
 
 <h1>TrackerKeeper</h1>
-<a href="http://trackerkeeper.co">trackerkeeper.co</a><br />
+<a href="http://trackerkeeper.co">trackerkeeper.co</a>
 <p>A website for keeping track of the multimedia links one consumes day to day, sharing them with others, and organising them into playlists. Prototyped in four hours using google forms and some hacky jquery.</p>
 
 <h1>Men's Style Forum Analysis</h1>
