@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm a software engineer in Sydney, Australia. I write a lot of python and javascript and want to make useful, interesting things.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I work at Freelancer.com, and previously held a number of interesting freelance, contract and part-time jobs. I graduated with a Bachelor of IT, honors first class, from the University of Sydney, and I started but did not finish a PhD in Natural Language Processing at <a href="https://schwa.org">schwa lab</a>.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I try to find as much time as I can to work on various <a href="{{site.url}}/projects">projects</a> I think are interesting.
