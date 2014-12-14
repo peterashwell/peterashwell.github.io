@@ -25,5 +25,5 @@ permalink: /projects/
 <p>Scraped several months of popular 4chan board /b/ with the objective of filtering out the typical low-quality content and extracting creative and interesting posts.</p>
 
 <h1>2011 Google AI Challenge - Ants</h1>
-<a href="http://ants.aichallenge.org/profile.php?user=12556">ants.aichallenge.org/profile.php?user=12556</a>(my bot)
+<a href="http://ants.aichallenge.org/profile.php?user=12556">ants.aichallenge.org/profile.php?user=12556</a> - my bot, 'antsbot', in action
 <p>Built a successful AI bot in python for the 2011 Google AI challenge, a simple RTS game played against other people's programs from around the world. The bot was based on a simple diffusion field algorithm with some performance tweaks. It performed well, placing 308 out of 7897 entrants.</p>
