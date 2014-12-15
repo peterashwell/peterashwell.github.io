@@ -5,7 +5,7 @@ permalink: /education/
 ---
 
 <h1>PhD in Natural Language Processing (not completed)</h1>
-University of Sydney, <a href="https://schwa.org">&#x0259;-lab</a>
+University of Sydney, <a href="http://schwa.org">&#x0259;-lab</a>
 
 <p>I spent a year in the excellent schwa lab under the supervision of Dr. James Curran. I was briefly researching opinion mining and then delved into the difficult problem of <a href="http://en.wikipedia.org/wiki/Word-sense_disambiguation">word sense disambiguation</a>, in particular techniques for improving the performance of the closely-related problem of <a href="http://en.wikipedia.org/wiki/Word-sense_induction">word sense induction</a>, the extraction and construction of <em>sense inventories</em> automatically from text corpora. Both problems boil down to discerning what <em>sense</em> of a word is being applied in a given context, e.g. the word bass in the two contexts:</p>
 
