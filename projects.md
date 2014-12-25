@@ -9,7 +9,18 @@ permalink: /projects/
 <br />
 <a href="http://petersparkingproject.com">petersparkingproject.com</a>
 <p>A smart city project using computer vision and networked cameras to find spots and elminate parking pain forever. Constructed a prototype with some basic computer vision techniques for the city of Borgholm. The prototype does not perform well right now as environmental conditions (locations of parking spot, seasons) have changed since it was built and optimised.</p>
+<div>
+    <img style="float:left; padding-right:10px" width=250
+         src="http://{{site.url}}/assets/dawn_filling_golden.png">
+    <img style="float:left; padding-right:10px" width=250
+         src="http://{{site.url}}/assets/dawn_vacant.png">
+    <img style="float:left; padding-right:10px" width=250
+         src="http://{{site.url}}/assets/day_busy.png">
+    <img style="float:left; padding-right:10px" width=250
+         src="http://{{site.url}}/assets/very_full.png">
+</div>
 <p>The next version includes 7 webcams from across the world, and more advanced computer vision which will improve accuracy substantially.</p>
+
 
 <h1>TrackerKeeper</h1>
 <em>May 2014 - ongoing</em>
