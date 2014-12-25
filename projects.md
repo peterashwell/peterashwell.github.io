@@ -32,6 +32,7 @@ permalink: /projects/
 <br />
 <a href="http://trackerkeeper.co">trackerkeeper.co</a>
 <p>A website with the objective of being a single place for keeping track of the multimedia links one consumes day to day, sharing them with others, and organising them into playlists.</p>
+<img width="660" style="float:left; padding:10px" src="{{site.url}}/assets/trackerkeeper.png">
 <p>Currently live is a website I prototyped in about four hours using google forms and some hacky jquery, which was a fun and very rewarding experience. It also inspired <a href="https://github.com/cmiceli">Chris Miceli</a> to build the terrifying and aptly named <a href="https://github.com/cmiceli/sheetyfs">SheetyFS</a>, a file system built out of Google Spreadsheets.</p>
 <p>The next steps for the tool are replacing google forms with a backend that can fetch metadata from youtube and soundcloud, which should improve the user experience a lot. That will also mean it will have a real auth system. Along with that would be simple playlist management and some performance tuning.</p>
 
