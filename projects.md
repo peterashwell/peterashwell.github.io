@@ -8,7 +8,6 @@ permalink: /projects/
 <em>January 2014 - ongoing</em>
 <br />
 <a href="http://petersparkingproject.com">petersparkingproject.com</a>
-<p>A smart city project using computer vision and networked cameras to find spots and elminate parking pain forever.</p>
 <p>
     <a href="{{site.url}}/assets/dawn_filling_golden.png">
         <img width="150" style="float:left; padding:10px" src="{{site.url}}/assets/dawn_filling_golden.png">
@@ -24,7 +23,8 @@ permalink: /projects/
     </a>
     <div style="clear:both"></div>
 </p>
-<p>After several months of iterations I constructed a successful prototype using a variety of computer vision techniques and applied it to the city of Borgholm, Sweden. The prototype does not perform well right now as environmental conditions (locations of parking spot, seasons) have changed since it was built and optimised, but below are some images of when it was newly built:</p>
+<p>A smart city project using computer vision and networked cameras to find spots and elminate parking pain forever.</p>
+<p>After several months of iterations I constructed a successful prototype using a variety of computer vision techniques and applied it to the city of Borgholm, Sweden. The prototype does not perform well right now as environmental conditions (locations of parking spot, seasons) have changed since it was built and optimised, see above for images of when it was newly built and performing well.</p>
 <p>The next version includes 7 webcams from across the world, and more advanced computer vision which will improve accuracy substantially.</p>
 
 
@@ -32,8 +32,8 @@ permalink: /projects/
 <em>May 2014 - ongoing</em>
 <br />
 <a href="http://trackerkeeper.co">trackerkeeper.co</a>
+<a href="http://trackerkeeper.co"><img width="660" style="padding:10px" src="{{site.url}}/assets/trackerkeeper.png"></a>
 <p>A website with the objective of being a single place for keeping track of the multimedia links one consumes day to day, sharing them with others, and organising them into playlists.</p>
-<img width="660" style="float:left; padding:10px" src="{{site.url}}/assets/trackerkeeper.png">
 <p>Currently live is a website I prototyped in about four hours using google forms and some hacky jquery, which was a fun and very rewarding experience. It also inspired <a href="https://github.com/cmiceli">Chris Miceli</a> to build the terrifying and aptly named <a href="https://github.com/cmiceli/sheetyfs">SheetyFS</a>, a file system built out of Google Spreadsheets.</p>
 <p>The next steps for the tool are replacing google forms with a backend that can fetch metadata from youtube and soundcloud, which should improve the user experience a lot. That will also mean it will have a real auth system. Along with that would be simple playlist management and some performance tuning.</p>
 
@@ -41,6 +41,9 @@ permalink: /projects/
 <em>August 2013 - January 2014</em>
 <br />
 <a href="http://basilframework.com">basilframework.com</a>
+<a href="http://basilframework.com">
+    <img height="250" src="{{site.url}}/assets/basil.png">
+</a>
 <p>Basil is a backend as a service that aims to make web development better by providing typical web application requirements such as login, file uploading, and permissions, as interfaced components that can link to both the backend and frontend of your application.</p>
 <p>I was selected to pitch Basil as a finalist at the USYD <a href="http://sydney.edu.au/business/genesis">Genesis business plan competition</a> in 2013 using <a href="https://docs.google.com/presentation/d/1qvK_DkQNHDPEPnQEfzBCNRcQYrxYQczjk0oZCzjtjXU/edit#slide=id.g10ee3a0fc_20">this slide deck</a>.</p>
 <p>I spent a lot of time learning about CORS, thrift, ORMs, and designing the platform but have not had time to get to version 1 (preferring other projects).</p>
