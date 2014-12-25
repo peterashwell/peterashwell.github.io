@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "to-do list"
-date:   2014-12-15 01:33:39
+title:  "Blog to-do list"
+date:   2014-12-25 12:30:00
 categories: peterashwell.com 
 ---
 <ul>
