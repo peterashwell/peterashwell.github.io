@@ -11,3 +11,8 @@ github_username:  peterashwell
 
 # Build settings
 markdown: kramdown
+
+analytics:
+    provider: google
+    google:
+        tracking_id: 'UA-57997917-1'
