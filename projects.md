@@ -32,7 +32,7 @@ permalink: /projects/
 <em>May 2014 - ongoing</em>
 <br />
 <a href="http://trackerkeeper.co">trackerkeeper.co</a>
-<a href="http://trackerkeeper.co"><img width="660" style="padding:10px" src="{{site.url}}/assets/trackerkeeper.png"></a>
+<a href="http://trackerkeeper.co"><img width="660" style="padding:10px 0px" src="{{site.url}}/assets/trackerkeeper.png"></a>
 <p>A website with the objective of being a single place for keeping track of the multimedia links one consumes day to day, sharing them with others, and organising them into playlists.</p>
 <p>Currently live is a website I prototyped in about four hours using google forms and some hacky jquery, which was a fun and very rewarding experience. It also inspired <a href="https://github.com/cmiceli">Chris Miceli</a> to build the terrifying and aptly named <a href="https://github.com/cmiceli/sheetyfs">SheetyFS</a>, a file system built out of Google Spreadsheets.</p>
 <p>The next steps for the tool are replacing google forms with a backend that can fetch metadata from youtube and soundcloud, which should improve the user experience a lot. That will also mean it will have a real auth system. Along with that would be simple playlist management and some performance tuning.</p>
@@ -40,9 +40,9 @@ permalink: /projects/
 <h1>Basil Framework</h1>
 <em>August 2013 - January 2014</em>
 <br />
-<a href="http://basilframework.com">basilframework.com</a>
+<a href="http://basilframework.com">basilframework.com</a><br />
 <a href="http://basilframework.com">
-    <img height="250" src="{{site.url}}/assets/basil.png">
+    <img height="90" style="padding:10px 0px" src="{{site.url}}/assets/basil.png">
 </a>
 <p>Basil is a backend as a service that aims to make web development better by providing typical web application requirements such as login, file uploading, and permissions, as interfaced components that can link to both the backend and frontend of your application.</p>
 <p>I was selected to pitch Basil as a finalist at the USYD <a href="http://sydney.edu.au/business/genesis">Genesis business plan competition</a> in 2013 using <a href="https://docs.google.com/presentation/d/1qvK_DkQNHDPEPnQEfzBCNRcQYrxYQczjk0oZCzjtjXU/edit#slide=id.g10ee3a0fc_20">this slide deck</a>.</p>
