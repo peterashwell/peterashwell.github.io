@@ -5,9 +5,18 @@ date:   2014-12-25 12:30:00
 categories: peterashwell.com 
 ---
 <ul>
-    <li>Google analytics</li>
-    <li>Peter's parking project image</li>
     <li>Image of diffusion field from Ants challenge in projects page</li>
+    <li>Fill out education section with links to paper, </li>
+    <li>
+        <span style="text-decoration:line-through">
+            Google analytics
+        </span>
+    </li>
+    <li>
+        <span style="text-decoration:line-through">
+            Peter's parking project image
+        </span>
+    </li>
     <li>
         <span style="text-decoration:line-through">
             Basil slide deck link on projects page
@@ -15,12 +24,12 @@ categories: peterashwell.com
     </li>
     <li>
         <span style="text-decoration:line-through">
-        Links to various Harvest competitors, write that out better too
+            Links to various Harvest competitors, write that out better too
         </span>
     </li>
     <li>
         <span style="text-decoration:line-through">
-            Link to James Somer's github
+            Link to James Somers' github
         </span>
     </li>
 </ul>
