@@ -54,7 +54,7 @@ permalink: /projects/
 <h1>Harvest</h1>
 <em>Early 2012</em>
 <br />
-<p>Collaborated with <a href="https://github.com/jsom">https://github.com/jsom</a> to design Harvest, a machine learning platform where you could upload your feature vectors and have a classification algorithm applied to them much faster than using a desktop application such as Weka. The idea got as far as us implementing a fast threaded random forest in C++, and spending a lot of time reading about all the hot-shot companies around the world who were popping up doing the exact same thing, like <a href="http://www.skytree.net/">SkyTree</a>, <a href="http://azure.microsoft.com/en-us/services/machine-learning/">Microsoft Azure</a> and <a href="https://bigml.com/">BigML</a></p>
+<p>Collaborated with <a href="https://github.com/jsom">James Somers</a> to design Harvest, a machine learning platform where you could upload your feature vectors and have a classification algorithm applied to them much faster than using a desktop application such as Weka. The idea got as far as us implementing a fast threaded random forest in C++, and spending a lot of time reading about all the hot-shot companies around the world who were popping up doing the exact same thing, like <a href="http://www.skytree.net/">SkyTree</a>, <a href="http://azure.microsoft.com/en-us/services/machine-learning/">Microsoft Azure</a> and <a href="https://bigml.com/">BigML</a></p>
 <p>During my honors thesis I undertook to apply time series classification techniques to astronomical data. This involved running long machine learning experiments to explore the classifiation problem and verify my results. Although I could do other work while waiting for programs to finish, the turnaround time on the experiments was long enough to be disruptive to my thinking and attempting to solve the problem.</p>
 <p>I was using Weka, a machine learning toolkit written in Java and produced by the University of Waikato. All credit to the Waikato guys, but Weka's algorithms are mostly for learning and lightweight experimentation, and they do not scale well. Frustrated with the slowness of my tools, I wondered at the potential of a cloud based service to make machine learning research faster. Machine learning classification algorithms have various strengths and weaknesses, but the structure of the input for most popular algorithms is almost the same.</p>
 <ul>
@@ -66,7 +66,7 @@ permalink: /projects/
 <em>September 2013 - ongoing</em>
 <br />
 <a href="https://bitbucket.org/urbanophile/sfscraper">bitbucket.org/urbanophile/sfscraper</a>
-<p>Collaborated with <a href="https://bitbucket.org/urbanophile">urbanophile</a> to scrape the complete post history of <a href="http://www.styleforum.net">men's style forum</a>. Data cleaning has been done with some analysis and insight extraction still to come. Here are a few ideas we want to pursue:</p>
+<p>Collaborated with <a href="https://bitbucket.org/urbanophile">Matt Gibson</a> to scrape the complete post history of <a href="http://www.styleforum.net">men's style forum</a>. Data cleaning has been done with some analysis and insight extraction still to come. Here are a few ideas we want to pursue:</p>
 <ul>
     <li>Extracting fashion 'facts' using off the shelf fact extraction e.g. 'pants and belt must match'</li>
     <li>Doing basic analysis like watching certain categories of clothing change in popularity of seasons, mentions of color, or dominant colors in uploaded images</li>
@@ -81,5 +81,5 @@ permalink: /projects/
 
 <h1>2011 Google AI Challenge - Ants</h1>
 <a href="http://ants.aichallenge.org/profile.php?user=12556">ants.aichallenge.org/profile.php?user=12556</a> - my bot, 'antsbot', in action
-<p>Collaborated with <a href="https://github.com/jsom">https://github.com/jsom</a> to build a successful AI bot in python for the 2011 Google AI challenge, a simple RTS game played against other people's programs from around the world. The bot was based on a simple diffusion field algorithm with some performance tweaks. It performed well, placing 308 out of 7897 entrants.</p>
+<p>Collaborated with <a href="https://github.com/jsom">James Somers</a> to build a successful AI bot in python for the 2011 Google AI challenge, a simple RTS game played against other people's programs from around the world. The bot was based on a simple diffusion field algorithm with some performance tweaks. It performed well, placing 308 out of 7897 entrants.</p>
 <p>Amusingly, whoever built the battle system still has it running, so my bot and all the others fight there everyday like it's some kind of digital Valhalla.</p>
