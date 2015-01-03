@@ -6,7 +6,10 @@ categories: peterashwell.com
 ---
 <ul>
     <li>Image of diffusion field from Ants challenge in projects page</li>
-    <li>Fill out education section with links to paper, </li>
+    <li>
+        <span style="text-decoration:line-through">
+            Fill out education section including links to paper.
+        </span>
     <li>
         <span style="text-decoration:line-through">
             Google analytics
