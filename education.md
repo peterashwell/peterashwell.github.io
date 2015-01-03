@@ -5,13 +5,13 @@ permalink: /education/
 ---
 
 <h1>PhD in Natural Language Processing</h1>
-<em>2012 (not completed</em><br />
-University of Sydney, <a href="http://schwa.org">&#x0259;-lab</a>
+<em>2012 (1 year, not completed)</em><br />
+University of Sydney, <a target="_blank" href="http://schwa.org">&#x0259;-lab</a>
 
 <p>I spent a year in the School of Information Technology schwa lab under the supervision of Dr. James Curran. I was briefly researching opinion mining, publishing <a href="{{site.url}}/assets/paper.pdf">one paper</a>, and then delved into the difficult problem of <a href="http://en.wikipedia.org/wiki/Word-sense_disambiguation">word sense disambiguation</a>, in particular techniques for improving the performance of the closely-related problem of <a href="http://en.wikipedia.org/wiki/Word-sense_induction">word sense induction</a>, the extraction and construction of <em>sense inventories</em> automatically from text corpora. Both problems boil down to discerning what <em>sense</em> of a word is being applied in a given context, e.g. the word bass in the two contexts:</p>
 
 <blockquote>
-	Big dirty stinkin' bass<br />
+	Big dirty stinkin' bass<br>
 	A fine bass fresh from the salty sea
 </blockquote>
 
@@ -23,15 +23,15 @@ University of Sydney, <a href="http://schwa.org">&#x0259;-lab</a>
 
 <h1>Honors Thesis</h1>
 <em>2011, with first class Honors</em><br />
-<University of Sydney
+University of Sydney
+
+<p>You can download my <a target="_blank" href="{{site.url}}/assets/thesis.pdf">thesis</a> or the <a target="_blank" href="{{site.url}}/assets/final_presentation.pdf">slides</a> I used at my final talk if you want to know more.</p>
 
 <p>My honors thesis was in Astroinformatics, a developing and exciting field concerning the application of modern Computer Science to Astronomy. I was under the supervision of Dr. Tara Murphy at the University of Sydney, and my work was contributing to the VAST project, a computational astronomy initiative concerned with the detection of astronomical transients. I received an overall grade of 88 and a grade on my thesis of 92.</p>
 
 <p>Astronomical transients are the parts of the sky that change over time, making them worthy of study because they can reveal much about the mechanics of the universe. The structure of the data is a light curve, which corresponds to a time series in the context of machine learning research. Framing the problem as time series classification is how I approached my research task.</p>
 
 <p>My work contributed to the VAST project with a comphrehensive set of classification experiments using a variety feature extraction techniques. All experiments had working software and were reproducible with a single command. I completed a detailed and comphrehensive review of time series classificaiton literature, and augmented and applied some leading techniques in that field order to apply them to the problem.</p>
-
-<p>You can download my <a href="{{site.url}}/assets/thesis.pdf">thesis</a> or the <a href="{{site.url}}/assets/final_presentation.pdf">slides</a> I used at my final talk if you want to know more.</p>
 
 <h1>Bachelor of Information Technology (Adv) / Bachelor of Science</h1>
 <em>2007 - 2011</em><br />

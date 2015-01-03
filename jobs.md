@@ -8,25 +8,19 @@ permalink: /jobs/
 <strong>full stack engineer</strong><br />
 <em>March 2014 - Present</em>
 
-<p>I work in Freelancer.com's messaging team, keeping their vital chat and contacts services working smoothly, and iterating on them constantly to provide a better communication service for employers and freelancers on the site. I work full-stack, meaning I operate on the backend built in thrift, python, and mysql, and I also work on the frontend built in angularjs and jquery.</p>
+<p>I work in Freelancer.com's <a target="_blank" href="https://www.freelancer.com.au/contest/Design-a-TShirt-for-the-Freelancercom-messaging-team-116592.html">messaging team</a>, keeping their vital chat and contacts services working smoothly, and iterating on them constantly to provide a better communication service for employers and freelancers on the site. I work full-stack, meaning I operate on the backend built in thrift, python, and mysql, and I also work on the frontend built in angularjs and jquery.</p>
 
 <h1>Abbrevi8</h1>
 <strong>frontend engineer</strong><br />
 <em>October 2013 - February 2014</em>
 
-<p>I developed on contract for Abbrevi8, a Sydney based startup with a mission to deliver valuable insights and information distilled from news and other sources. My role was diverse, creating software and algorithms to reliably extract article text and metadata from arbitrary html news documents, designing and developing responsive and beautiful email templates that were multi-client compatible in zurb ink, and designing and developing the frontend for the service in angularjs and twitter bootstrap.</p>
-
-<h1>Basil Framework</h1>
-<strong>founder, developer</strong><br />
-<em>September 2013 - October 2013</em>
-
-<p>Developed an innovative approach to web development, where parts or all of a website backend are outsourced. You can imagine the idea by considering say, a flask plugin for auth, blogging, or chat, that interacts with a software service instead of using databases and software either produced or installed and configured by a developer. I built working protoptyes for the idea and was selected to pitch as a finalist in the University of Sydney Genesis business plan competition.</p>
+<p>I developed on contract for <a target="_blank" href="http://www.abbrevi8.com">Abbrevi8</a>, a Sydney based startup with a mission to deliver valuable insights and information distilled from news and other sources. My role was diverse, creating software and algorithms to reliably extract article text and metadata from arbitrary html news documents, designing and developing responsive and beautiful email templates that were multi-client compatible in zurb ink, and designing and developing the frontend for the service in angularjs and twitter bootstrap.</p>
 
 <h1>Brainstorm</h1>
 <strong>full stack engineer</strong><br />
 <em>January 2013 - August 2013</em>
 
-<p>I built a new version of the internationally successful neuroanatomy atlas Brainstorm, an information-rich, image-based wiki for learning about the human brain. I ported the original desktop application to the <a href="http://www.brainstormneuro.net">web</a>, building the UI and backend from scract around the original dataset using jquery, python and twitter bootstrap. It is currently in use by students at the University of New South Wales.</p>
+<p>I built <a href="http://www.brainstormneuro.net">a new version</a> of the internationally successful neuroanatomy atlas Brainstorm, an information-rich, image-based wiki for learning about the human brain. I ported the original desktop application to the web, building the UI and backend from scract around the original dataset using jquery, python and twitter bootstrap. It is currently in use by students at the University of New South Wales.</p>
 
 <h1>Freelancer.com</h1>
 <strong>software development intern</strong><br />
