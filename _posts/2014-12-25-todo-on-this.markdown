@@ -6,6 +6,7 @@ categories: peterashwell.com
 ---
 <ul>
     <li>Image of diffusion field from Ants challenge in projects page</li>
+    <li>People page: entries for James Somers, Matt Gibson</li>
     <li>
         <span style="text-decoration:line-through">
             Fill out education section including links to paper.
