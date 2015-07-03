@@ -15,9 +15,9 @@ categories: remote torrent adder feralhosting seedbox chrome extension torrent
   <li>DO NOT include the protocol (http, https) in the host field</li>
   <li>DO NOT include the trailing '/' in the hostname</li>
   <li>The port is whatever your torrent WebUI is running on. In my case, it is 80 so it doesn't appear at the end as that is the default. Often this will be something different
-  and you'll see it after the colon when your webui is open e.g. <pre>http://somehost:&lt;THIS_PORT&gt;</pre></li>
+  and you'll see it after the colon when your webui is open e.g. <code>http://somehost:&lt;THIS_PORT&gt;</code></li>
   <li>Check SSL if you are using https when you access your web client.</li>
   <li>If you check SSL, you are using port 443. Change the port to 443.</li>
   <li>DO NOT include the trailing path from your webUI URL. At least the guide is clear on how to do that</li>
 </ul>
-<p>And it should work. If it doesn't, e.g. if you get the error: <pre>http server returned unexpected status 0</pre> then just carefully check the points above and your configuration<p>
+<p>And it should work. If it doesn't, e.g. if you get the error: <code>http server returned unexpected status 0</code> then just carefully check the points above and your configuration<p>

@@ -12,7 +12,6 @@ categories: webpack, proxy, api, development
   devServer: {
     /* Send API requests on localhost to API server get around CORS */
     proxy: {
-      '/<api_base_url>/*': 'http://<some_server>:<some_port>'
+      '/&lt;api_base_url&gt;/*': 'http://&lt;some_server&gt;:&lt;some_port&gt;'
     }
-  }
-</pre>
+  }</pre>
