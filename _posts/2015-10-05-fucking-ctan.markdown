@@ -7,7 +7,7 @@ categories: ctan latex xelatex
 
 So it's been a long time since I've done any latex work, and now (or maybe for a while?) there's this thing called CTAN which is a package manager for latex stuff, like, the tabularx or enumitem packages that you always need.
 
-This is great, but how the fuck do you install things using this on Arch Linux, or any other linux? It is terribly confusing and I could not find clear answers anywhere on the internet. The utilities I did find did not appear to be maintained or did not work.
+This is great, but how do you actuall install things using this on Arch Linux, or any other linux? It is terribly confusing and I could not find clear answers anywhere on the internet. The utilities I did find did not appear to be maintained or did not work.
 
 Here's how you do it
 
